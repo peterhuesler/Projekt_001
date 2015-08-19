@@ -26,6 +26,6 @@ RUN;
 PROC PRINT data=sashelp.class;
 RUN;
 
-data test1
+data test2
 	set bla;
 run;
