@@ -22,3 +22,6 @@ DATA test;
 RUN;
 
 %doit;
+
+PROC PRINT data=sashelp.class;
+RUN;
