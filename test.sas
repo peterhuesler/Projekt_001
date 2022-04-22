@@ -1,3 +1,3 @@
-data bla2;
+data bla3;
 set sashelp.class;
 run;
